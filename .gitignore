@@ -1,0 +1,7 @@
+ewqew
+main.c.save
+*.main.c.swp
+*.ewqew.swp
+*..gitignore.swp
+*..clang-format.swp
+*.makefile1.swp
